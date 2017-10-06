@@ -24,6 +24,12 @@ Gradle 4.1 (Or just use provided Gradle wrapper)
 
 ```
 
+## Running Build
+
+```
+gradlew clean build
+```
+
 ## Running Unit tests
 
 Run all tests:
